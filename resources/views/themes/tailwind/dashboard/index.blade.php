@@ -15,7 +15,7 @@
 	                    Welcome to your Dashboard
 	                </h3>
 	                <p class="text-sm leading-5 text-gray-500 mt">
-	                    Learn More Below
+	                    Learn More Belows
 	                </p>
 				</div>
 
